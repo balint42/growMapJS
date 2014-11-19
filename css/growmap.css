@@ -1,0 +1,31 @@
+/* map
+----------------------------------*/
+#map {
+    height: 100%;
+    width: 100%;
+}
+
+/* map popup
+----------------------------------*/
+#map .leaflet-popup-content {
+    text-align: center;
+    /*overflow: auto;*/
+}
+
+/* slider
+----------------------------------*/
+#slider {
+    height: 10px;
+    width: 200px;
+}
+label#dateRange {
+    font-size: larger;
+    font-weight: bold;
+    color: #fff;
+}
+
+/* menu
+----------------------------------*/
+fieldset {
+    border: none;
+}

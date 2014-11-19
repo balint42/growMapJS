@@ -1,0 +1,67 @@
+/* container
+----------------------------------*/
+#container {
+    width: 90%;
+    height: 90%;
+    max-width: 1280px;
+    max-height: 1024px;
+    display: inline-block;
+}
+
+/* navbar
+----------------------------------*/
+#navbar {
+    top: 0;
+    right: 0;
+    left: 0;
+    padding-left: 50px;
+    padding-right: 10px;
+    z-index: 1030;
+    overflow: visible;
+    margin-bottom: 5px;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 25px;
+    line-height: 18px;
+    color: #fff;
+    background-color: #333;
+}
+#navbar p {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 15px;
+    display: inline-block;
+}
+#navbar a {
+    color: #fff;
+}
+
+/* misc
+----------------------------------*/
+.wordwrap {
+    white-space: pre-wrap;      /* CSS3 */
+    white-space: -moz-pre-wrap; /* Firefox */
+    white-space: -pre-wrap;     /* Opera <7 */
+    white-space: -o-pre-wrap;   /* Opera 7 */
+    word-wrap: break-word;      /* IE */
+}
+h1, h2, h3, h4 {
+    color: #222;
+    font-family: Verdana,Arial,sans-serif;
+    text-align: center;
+}
+#center {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+html {
+    height: 98%;
+}
+body {
+    height: 92%;
+}
+
+/* background
+----------------------------------*/
+body {
+    background-color: #222;
+}
