@@ -25,11 +25,11 @@ on your server. Simply put the files of both repositories in the same `growmap` 
 
 ### with growstuff.org API
 If you plan to use the `growstuff.org` API directly without the growMapAPI then you will have to change
-`growMap.apiUrl` to `www.growstuff.org` while the `growMap.baseUrl` always has to point to the directory with
+`growMap.apiUrl` to `growstuff.org` while the `growMap.baseUrl` always has to point to the directory with
 `index.html`. Of course you can create your own `index.html` but don't forget to give credit to `growstuff.org`.
 
 Usage
 -----
 
 Just try it! The slider on the lower left allows to limit the time range in which the plantings shown have been
-existing.
+existing. All data is provided by the [growstuff.org](http://growstuff.org/) site under the [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) license.
